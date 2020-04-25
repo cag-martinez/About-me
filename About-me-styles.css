@@ -1,0 +1,11 @@
+.container {
+    width: 1250px;
+    margin: auto;
+}
+
+img {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBmJnay6qpBEEZcgIytxBnTHA6IhGj625fACaj2PHEU7Up2fLW&usqp=CAU);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
