@@ -1,11 +1,46 @@
-.container {
-    width: 1250px;
+.container {    
+    width: auto;
     margin: auto;
 }
-
-img {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBmJnay6qpBEEZcgIytxBnTHA6IhGj625fACaj2PHEU7Up2fLW&usqp=CAU);
-    background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
+section {
+  padding: 0px;
+  margin-bottom: 10px;
+  
+  text-align: center;
+  float: right;
+  
 }
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size:40px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+button {   
+    border-radius: 99px;
+    background: #55b9f3;
+    box-shadow: inset -26px 26px 48px #306888, 
+            inset 26px -26px 48px #7affff;
+    height: 30px;
+    width: 100px;
+    float: right;
+    line-height: .8;
+    font-family: 'Indie Flower', cursive;
+}
+#yoda {
+    width: 200px;
+    height: 150px;
+    margin: auto;
+}
+#paragraph1 {
+    width: 850px;
+    float: right;
+    position: ;
+    margin: 0px;
+}
+#hobbies {
+    width: 500px;
+    position: ;
+}
+
